@@ -1,9 +1,8 @@
 # Average-student-situation
 Programa para exercício desenvolvido em portugol que calcula uma média ponderada entre 3 números, gerando situações de aprovado, reprovado ou uma recuperação à depender da média adquirida.
 portugal.dev
-
-
-programa{
+```
+  programa{
   funcao inicio(){
     cadeia NomeDoAluno
     real Nota1, Nota2, Nota3, Media, Recuperacao, MediaFinal
